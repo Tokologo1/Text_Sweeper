@@ -1,4 +1,7 @@
 # Text Sweeper
+
+![image](https://github.com/Tokologo1/Text_Sweeper/assets/18641513/f22f4e62-0c10-44c7-89a9-3ea929fd8838)
+
 #This project was inspired by the gab or rather the non-existance of a common social eco system, where all people gather in #a plartform that creates a space for every one to participate effectively and suffiecntly, without predudice. We are now in #the 4th industrial evolution and when the conversation is getting a smooth sweeter flow, the typing technique tends to get #exhausting. So i thought why not create a space where this function of recording yourself then the app converts the record #to text is fully explored. Now!! that is where Text-Sweeper gets in.
 
 
